@@ -1,3 +1,6 @@
+## Machine Learning for Beginners: An Introduction to Neural Networks
+
+https://victorzhou.com/blog/intro-to-neural-networks/
 
 ## CNNs, Part 1: An Introduction to Convolutional Neural Networks
 
